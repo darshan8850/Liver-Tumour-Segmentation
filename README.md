@@ -13,4 +13,4 @@ features while suppressing irrelevant ones. Our results show
 that this architecture is able to accurately segment liver tumors
 while preserving important spatial information.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/darshan8850/Liver-Tumour-Segmentation/blob/main/valfoc.jpg))
