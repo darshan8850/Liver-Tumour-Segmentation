@@ -13,4 +13,4 @@ features while suppressing irrelevant ones. Our results show
 that this architecture is able to accurately segment liver tumors
 while preserving important spatial information.
 
-![Screenshot](valfoc.jpg)
+![alt text](http://url/to/img.png)
