@@ -12,3 +12,5 @@ selective attention mechanism to selectively focus on important
 features while suppressing irrelevant ones. Our results show
 that this architecture is able to accurately segment liver tumors
 while preserving important spatial information.
+
+![plot](./valfoc.jpg)
